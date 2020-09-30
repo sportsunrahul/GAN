@@ -14,6 +14,5 @@ Number of epochs = 40000
 Add plots
 Add plots
 [TODO] Add Image
-[TODO] Add Image
 
 Number of epochs = 40000
