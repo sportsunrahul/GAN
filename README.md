@@ -11,3 +11,4 @@ Network used : DC GAN
 [TODO] Add Image
 
 Number of epochs = 40000
+Add plots
