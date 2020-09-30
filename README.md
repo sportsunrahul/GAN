@@ -16,3 +16,5 @@ Add plots
 [TODO] Add Image
 
 Number of epochs = 40000
+
+RMS
