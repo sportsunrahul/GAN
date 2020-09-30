@@ -8,7 +8,7 @@ There were around 14000 images to train our network.
 
 Network used : DC GAN
 
-Add plots
 [TODO] Add Image
 
 Number of epochs = 40000
+Add plots
